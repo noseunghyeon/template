@@ -5,7 +5,7 @@ const Profile = () => {
     <div className="profile w-full">
       <div className="block-head flex items-center justify-between ">
         <span>logo</span>
-        <h2 className=" bg-gray-600">Crema Demo</h2>
+        <h2>Crema Demo</h2>
         <span>System Manager</span>
       </div>
     </div>
