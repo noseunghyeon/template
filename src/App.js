@@ -1,6 +1,6 @@
 import DashboardScreen from "./component/Dashboard/DashboardScreen";
 import Header from "./component/Header/Header";
-import Main from "./component/Main";
+import Main from "./component/Main/Main";
 
 function App() {
   return (

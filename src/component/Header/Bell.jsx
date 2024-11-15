@@ -4,7 +4,7 @@ import { FaBell } from "react-icons/fa";
 const Bell = () => {
   return (
     <div>
-      <FaBell />
+      <FaBell className="size-8" />
     </div>
   );
 };

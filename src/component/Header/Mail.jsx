@@ -4,7 +4,7 @@ import { IoMailOpenSharp } from "react-icons/io5";
 const Mail = () => {
   return (
     <div>
-      <IoMailOpenSharp />
+      <IoMailOpenSharp className="size-8" />
     </div>
   );
 };
