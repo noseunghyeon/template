@@ -16,6 +16,6 @@ body {
 .bolck-wrapper {
   border-radius: 6px;
   padding: 20px;
-  background: rgba(75, 70, 92, 0.1);
+  background: rgb(255, 255, 255);
   box-sizing: 0 0 0.25rem rgba(75, 70, 92, 0.1);
 }

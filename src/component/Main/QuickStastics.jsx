@@ -1,11 +1,13 @@
 import React from "react";
 
+import image from "../../image/QuickStastics.png";
+
 const QuickStastics = () => {
   return (
     <div className="bolck-wrapper w-full">
-      <h2>QuickStastics</h2>
-      <div className="items-center justify-between">
-        <img src="./../../../image/QuickStatics.png" alt="" />
+      <h2 className="text-gray-700 text-[40px]">QuickStastics</h2>
+      <div className="items-center justify-between mt-4">
+        <img src={image} alt="" />
       </div>
     </div>
   );
