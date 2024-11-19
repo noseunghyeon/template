@@ -8,6 +8,8 @@ const center = {
   lng: 126.879349,
 };
 
+// test
+
 function Map() {
   return (
     <LoadScript googleMapsApiKey={process.env.REACT_APP_GOOGLE_MAP_API}>
