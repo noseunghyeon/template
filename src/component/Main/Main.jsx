@@ -6,6 +6,7 @@ import Earning from "./Earning";
 import SocialMedia from "./SocialMedia";
 import TodayTasks from "./TodayTasks";
 import GoogleMap from "./libses/GoogleMap";
+import Charts from "./libses/Charts";
 
 const Main = () => {
   return (
@@ -25,6 +26,7 @@ const Main = () => {
       <div className="libs bg-gray-400 mx-1 my-1">
         <div className="mt-[14px] grid grid-cols-[4fr_3fr] flex-wrap gap-[10px]">
           <GoogleMap />
+          <Charts />
         </div>
       </div>
     </div>
